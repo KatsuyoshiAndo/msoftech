@@ -50,6 +50,7 @@
 			children = (
 				C3CB415322B773070038EF12 /* msoftech */,
 				C3CB415222B773070038EF12 /* Products */,
+				C37665CE22B7769C00FB6276 /* docs */,
 			);
 			sourceTree = "<group>";
 		};
@@ -64,7 +65,6 @@
 		C3CB415322B773070038EF12 /* msoftech */ = {
 			isa = PBXGroup;
 			children = (
-				C37665CE22B7769C00FB6276 /* docs */,
 				C3CB415422B773070038EF12 /* AppDelegate.swift */,
 				C3CB415622B773070038EF12 /* ViewController.swift */,
 				C3CB415822B773070038EF12 /* Main.storyboard */,
